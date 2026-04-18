@@ -161,6 +161,6 @@ The results show that training programs can have measurable impacts on employee 
 
 ## Author
 
-Bayu Chandra Putra | Data Analyst | Data Visualization | Master’s in Computer Science
+Bayu Chandra Putra | Data Analyst | Data Visualization | Computer Science
 
 LinkedIn: www.linkedin.com/in/bayuchandraputra
